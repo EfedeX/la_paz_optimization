@@ -1,0 +1,17 @@
+sector_id,nombre,colonias_referencia,lat,lon,poblacion,nivel_socioeconomico
+S01,Centro,"Centro, Pueblo Nuevo",24.1602,-110.3130,14500,medio
+S02,El Esterito,"El Esterito, Perla",24.1650,-110.3000,11800,medio
+S03,Lomas de Palmira,"Lomas de Palmira, Costa Azul",24.1560,-110.2880,9200,alto
+S04,Los Olivos,"Los Olivos, Guerrero",24.1360,-110.3070,18600,medio
+S05,8 de Octubre,"8 de Octubre, Ayuntamiento",24.1300,-110.3200,21400,medio-bajo
+S06,Indeco,"Indeco, Agustín Olachea",24.1220,-110.2980,19800,medio-bajo
+S07,Marqués de León,"Marqués de León, Tabachines",24.1300,-110.2900,15300,bajo
+S08,Santa Fe,"Santa Fe, Diana Laura",24.1180,-110.2860,17900,bajo
+S09,Villas de Guadalupe,"Ampliación Villas de Guadalupe",24.1150,-110.2750,13600,bajo
+S10,Valle del Mezquite,"Valle del Mezquite, Laguna Azul",24.0980,-110.2850,14200,bajo
+S11,Camino Real,"Camino Real, Infonavit",24.1050,-110.3100,20300,medio
+S12,El Calandrio,"El Calandrio, Calafia",24.1120,-110.3170,16700,medio-bajo
+S13,Fidepaz,"Fidepaz, Puesta del Sol",24.1000,-110.3300,12400,medio
+S14,El Zacatal,"El Zacatal, Las Garzas",24.0850,-110.3450,9600,bajo
+S15,Chametla,"Chametla, El Centenario (conurbado)",24.1050,-110.3850,8900,medio-bajo
+S16,Lomas de La Paz,"Lomas de La Paz, Vista Hermosa",24.1440,-110.2970,8200,alto
