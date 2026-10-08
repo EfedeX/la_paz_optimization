@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos descargados de la PNT (se regeneran con `python -m lapaz.pnt`)
+data/pnt/raw/
+data/pnt/storage_state.json
